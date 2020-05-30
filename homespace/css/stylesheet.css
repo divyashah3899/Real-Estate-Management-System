@@ -1,0 +1,22 @@
+.table1{
+	margin-left: 36%;
+}
+.text1{
+	font-size: 30px;
+	margin-left: 50px;
+	padding-left:25%;
+	padding-bottom:8%;
+}
+.form1 > input{
+	border: none;
+	border-bottom:1px solid black;
+	width:91%;
+}
+th,td{
+	padding-top:12px;
+}
+.select1 > select{
+	width:91%;
+	border:none;
+	border-bottom:1px solid black;
+}
